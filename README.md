@@ -1,1 +1,1 @@
-# Quintus-Javascript-HTML-5-games
+# Puskar-JS-HTML-5-games
